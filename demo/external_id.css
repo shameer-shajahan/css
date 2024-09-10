@@ -1,0 +1,22 @@
+
+
+
+/* id selecter using # */
+
+
+
+
+body
+{
+    background-color: black;
+}
+main
+{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+#second
+{
+    color: blue;
+}

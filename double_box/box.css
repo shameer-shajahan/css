@@ -1,0 +1,32 @@
+
+
+
+
+.pbox1{
+    width: 300px;
+    height: 200px;
+    border: 2px black solid;
+}
+.sbox{
+    width: 60px;
+    height: 30px;
+    border: 2px black solid;
+    text-align: center;
+    color: white;
+}
+.bg-success
+{
+background-color: green;
+}
+.bg-warning
+{
+background-color: yellow;
+}
+.bg-primary
+{
+background-color: blue;
+}
+.bg-purple
+{
+background-color: purple;
+}

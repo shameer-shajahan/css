@@ -1,0 +1,28 @@
+.parent{
+    border: 1px black solid;
+    height: 500px;
+    width: 75%;
+    background-color: rgb(208, 173, 173);
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows:1fr 2fr 1fr ;
+}
+.child{
+    border: 1px black solid;
+    background-color: aqua;
+    text-align: center;
+    
+}
+.header
+{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    padding-top: 1.5cm;
+}
+.footer{
+    grid-column: 1/4;
+    padding-top: 1.5cm;
+}
+.nav ,.main ,.side{
+    padding-top: 3cm;
+}

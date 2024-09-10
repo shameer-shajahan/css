@@ -1,0 +1,25 @@
+.border{
+    border: 2px solid black;
+}
+.parent{
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+}
+.child{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.parent >:nth-child(1){
+background-color: yellowgreen;
+}
+.parent>:nth-child(2){
+    background-color: violet;
+}
+.margin-center{
+    margin-left: auto;
+    margin-right: auto;
+}

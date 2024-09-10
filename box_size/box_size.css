@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+}
+
+.border{
+    border: 2px black solid;
+}
+/* body{
+    width: 100vh;
+    height: 600px;
+} */
+.pbox{
+    width: 50%;
+    min-height: 400%;
+    
+}
+.box1{
+    width: 50%;
+    height: 50px;
+    
+}
+.box2{
+    width: 75%;
+    height: 50px;
+    
+}
+.box3{
+    width: 100vw;
+    height: 50px;
+    
+}
+.box4{
+    width: 50vw;
+    height: 50px;
+    
+}
+.box5{
+    width: 400px;
+    height: 50px;
+    
+}
+.bg-primary{
+    background-color: blue;
+}
+.bg-success{
+    background-color: green;
+}
+.bg-warnig{
+    background-color: orange;
+}
+.bg-danger{
+    background-color: red;
+}
+.bg-cyan{
+    background-color: cyan;
+}
+.bg-yellow{
+    background: yellow;
+}

@@ -1,0 +1,24 @@
+*{
+    border: 0;
+}
+.border{
+    border: 2px black solid ;
+}
+.box{
+    height: 100px;
+    width: 100px;
+}
+
+.margin-bottom{
+    margin-bottom: 200px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.left-end{
+    margin-right: auto; 
+}
+.right-end{
+    margin-left: auto;
+}
